@@ -1,4 +1,4 @@
-image: gitpod/workspace-full-vnc
+image: sickcodes/docker-osx:auto
 ports:
   - port: 6080
     onOpen: open-preview
